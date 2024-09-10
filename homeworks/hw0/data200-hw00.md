@@ -12,7 +12,7 @@ I will grade your assignment by opening your "hw0.ipynb" file in Jupyter (in a d
 Please enter your name by double clicking on the cell below, and after yout your name, run it with Shift + Enter.
 
 
-# Name:
+# Name: Jules Dao 
 
 # Task 1
 
@@ -32,8 +32,11 @@ Now, go ahead and write python code in the chunk below that prints your favorite
 
 
 ```python
-
+print ('My favorite movie is Harry Potter')
 ```
+
+    My favorite movie is Harry Potter
+
 
 # Task 2
 
@@ -45,3 +48,48 @@ It is now time to submit the assignment! Make sure that you have saved all your 
 
 Good work! 🏁
 
+
+
+```python
+
+```
+
+
+```python
+
+```
+
+
+```python
+
+```
+
+
+```python
+
+```
+
+
+```python
+
+```
+
+
+```python
+
+```
+
+
+```python
+
+```
+
+
+```python
+
+```
+
+
+```python
+
+```
