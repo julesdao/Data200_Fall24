@@ -9,10 +9,14 @@ Welcome!🎪 You will turn in your assignment by making changes on this Jupyter 
 
 I will grade your assignment by opening your "hw0.ipynb" file in Jupyter (in a directory containing all required data files), clicking "Kernel > Restart & Run All", reading the output, and reading your "hw0.md" file. Any code that fails to run due to errors receives a 0, so make sure to "Restart & Run All" your file and verify that all code runs without any issues before you submit.
 
-Please enter your name by double clicking on the cell below, and after yout your name, run it with Shift + Enter.
+Please enter your name by double clicking on the cell below, and after you your name, run it with Shift + Enter.
 
 
+<<<<<<< HEAD
 # Name: Jules Dao 
+=======
+# Name: Eren Bilen
+>>>>>>> 620f85c147baf00f371fc172b7e3cc720daa6563
 
 # Task 1
 
@@ -24,7 +28,7 @@ print("Hello World!")
 ```
 
     Hello World!
-
+    
 
 Now, go ahead and write python code in the chunk below that prints your favorite movie. Here is my output:
 
@@ -32,11 +36,19 @@ Now, go ahead and write python code in the chunk below that prints your favorite
 
 
 ```python
+<<<<<<< HEAD
 print ('My favorite movie is Harry Potter')
 ```
 
     My favorite movie is Harry Potter
 
+=======
+print("My favorite movie is Oppenheimer.")
+```
+
+    My favorite movie is Oppenheimer.
+    
+>>>>>>> 620f85c147baf00f371fc172b7e3cc720daa6563
 
 # Task 2
 
